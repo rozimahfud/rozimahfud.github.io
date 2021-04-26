@@ -1,8 +1,6 @@
-## MUHAMMAD FAKHRUR ROZI
+## About
 
-You can use the [editor on GitHub](https://github.com/rozimahfud/rozimahfud.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+He is currently a doctoral student at Kobe University started from 2021. His research field is about machine learning application on cyber-security especially on web security.
 
 ### Markdown
 
