@@ -3,7 +3,7 @@
 He is currently a doctoral student at Kobe University started from 2021. His research field is about machine learning application on cyber-security especially on web security.
 
 ### Education Background
-2021 ~ Present
+2021 ~ Present<br>
 Doctoral course
 Kobe University
 Intelligent Learning Theory Laboratory
