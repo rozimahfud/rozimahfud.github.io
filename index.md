@@ -33,7 +33,7 @@ Graduate School of Engineering<br>
 Electrical and Electronics Engineering<br>
 Intelligent Learning Theory Laboratory<br>
 
-April 2017 ~ July 2017
+April 2017 ~ July 2017<br>
 Sandwich Program (Exchange Student)<br>
 Shibaura Institute of Technology<br>
 College of Engineering<br>
