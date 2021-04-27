@@ -2,6 +2,22 @@
 
 He is currently a doctoral student at Kobe University started from 2021. His research field is about machine learning application on cyber-security especially on web security.
 
+### Education Background
+2021 ~ Present
+Doctoral course
+Kobe University
+Intelligent Learning Theory Laboratory
+
+2019 ~ 2021
+Master course
+Kobe University
+Intelligent Learning Theory Laboratory
+
+2013 ~ 2017
+Bachelor course
+Sepuluh Nopember Institute of Technology
+Mathematics
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
