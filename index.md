@@ -3,20 +3,40 @@
 He is currently a doctoral student at Kobe University started from 2021. His research field is about machine learning application on cyber-security especially on web security.
 
 ### Education Background
+#### Degree
 2021 ~ Present<br>
 Doctoral course<br>
 Kobe University<br>
+Graduate School of Engineering<br>
+Electrical and Electronics Engineering<br>
 Intelligent Learning Theory Laboratory<br>
 
 2019 ~ 2021<br>
 Master course<br>
 Kobe University<br>
+Graduate School of Engineering<br>
+Electrical and Electronics Engineering<br>
 Intelligent Learning Theory Laboratory<br>
 
 2013 ~ 2017<br>
 Bachelor course<br>
 Sepuluh Nopember Institute of Technology<br>
+Faculty of Mathematics and Natural Science<br>
 Mathematics<br>
+Computer Science Laboratoty<br>
+
+#### Non-degree
+October 2018 ~ March 2019<br>
+Research Student<br>
+Kobe University<br>
+Graduate School of Engineering<br>
+Electrical and Electronics Engineering<br>
+Intelligent Learning Theory Laboratory<br>
+
+April 2017 ~ July 2017
+Sandwich Program (Exchange Student)<br>
+Shibaura Institute of Technology<br>
+College of Engineering<br>
 
 ### Markdown
 
