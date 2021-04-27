@@ -4,19 +4,19 @@ He is currently a doctoral student at Kobe University started from 2021. His res
 
 ### Education Background
 2021 ~ Present<br>
-Doctoral course
-Kobe University
-Intelligent Learning Theory Laboratory
+Doctoral course<br>
+Kobe University<br>
+Intelligent Learning Theory Laboratory<br>
 
-2019 ~ 2021
-Master course
-Kobe University
-Intelligent Learning Theory Laboratory
+2019 ~ 2021<br>
+Master course<br>
+Kobe University<br>
+Intelligent Learning Theory Laboratory<br>
 
-2013 ~ 2017
-Bachelor course
-Sepuluh Nopember Institute of Technology
-Mathematics
+2013 ~ 2017<br>
+Bachelor course<br>
+Sepuluh Nopember Institute of Technology<br>
+Mathematics<br>
 
 ### Markdown
 
