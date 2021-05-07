@@ -1,8 +1,5 @@
 ## Profile
-<p align="center">
 <img src='personalPhoto.JPG' alt='personal' width="25%" height="25%" align="center"/>
-<p/>
-<p>
 He is currently a doctoral student at Kobe University started from 2021. His research field is about machine learning application on cyber-security especially on web security.
 
 ### Education Background
@@ -72,4 +69,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-<p/>
